@@ -1,4 +1,4 @@
-### Hi there, I'm Hassan]! 👋
+### Hi there, I'm Hassan! 👋
 
 I'm a passionate Python Developer specializing in solving complex problems through **Artificial Intelligence (AI)** and **Automation**. I love building tools that make life easier and more efficient.
 
